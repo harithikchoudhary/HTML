@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 10px;
+}
+
+ol,ul{
+    display: table;
+    margin: 0 auto;
+}
+
+.asap-row1 {
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .whisper-regular {
+    font-family: "Whisper", cursive;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  
+
+
+  .grey-qo-regular {
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .kalnia-glaze-row4{
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .noto-serif-jp-row4 {
+    font-family: "Noto Serif JP", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
